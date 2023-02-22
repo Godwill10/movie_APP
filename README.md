@@ -1,3 +1,19 @@
+Author: Godwill Afolabi
+
+The movie App (Movie Land) is a basic visual look of what a movie application looks like.
+This is my first try at react.js. 
+
+Basic features:
+
+. A search bar to search for movies
+. Every movie has its picture displayed along with its title and 
+year of release
+. An appealing background theme
+
+
+
+
+---------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
